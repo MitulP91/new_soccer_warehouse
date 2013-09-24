@@ -1,0 +1,8 @@
+<h2><%= @team.name %></h2>
+<h3><%= @team.country %></h3>
+
+<a href="/teams/<%= @team.id %>/players">View Players</a> |
+<a href="/teams/<%= @team.id %>/players/new">Add New Player</a> |
+<br/><hr>
+<%= link_to "Create New Team", new_team_path %> | 
+<%= link_to "View All Teams", teams_path %>

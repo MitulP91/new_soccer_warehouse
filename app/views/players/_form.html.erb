@@ -1,0 +1,12 @@
+<%= form_for player, url: team_players_path(@team_id) do |f| %>
+	<%= f.label :name %>
+	<%= f.text_field :name %>
+	<br/>
+	<%= f.label :age %>
+	<%= f.number_field :age %>
+	<br/>
+	<%= f.label :nationality %>
+	<%= f.text_field :nationality %>
+	<br/>
+	<%= f.submit %>
+<% end %>
