@@ -1,23 +1,23 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: df50s64dt0ourr
+  database: d2jtjvlmpktkvp
   pool: 5
-  username: mlodnqqqinpwx
-  password: dQEqI2cul1VyPfHoSiH5U-409X
+  username: uzrcdzjvmnorvp
+  password: Eao4YkxIfIzIeYvqNotU_0yDXH
 
 test:
   adapter: postgresql
   encoding: unicode
-  database: df50s64dt0ourr
+  database: d2jtjvlmpktkvp
   pool: 5
-  username: mlodnqqqinpwx
-  password: dQEqI2cul1VyPfHoSiH5U-409X
+  username: uzrcdzjvmnorvp
+  password: Eao4YkxIfIzIeYvqNotU_0yDXH
 
 production:
   adapter: postgresql
   encoding: unicode
-  database: df50s64dt0ourr
+  database: d2jtjvlmpktkvp
   pool: 5
-  username: mlodnqqqinpwx
-  password: dQEqI2cul1VyPfHoSiH5U-409X
+  username: uzrcdzjvmnorvp
+  password: Eao4YkxIfIzIeYvqNotU_0yDXH
